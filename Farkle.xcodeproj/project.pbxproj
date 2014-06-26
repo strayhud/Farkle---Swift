@@ -8,10 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		5E596BA119523B55007D7790 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E596BA019523B55007D7790 /* AppDelegate.swift */; };
-		5E596BA319523B55007D7790 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E596BA219523B55007D7790 /* ViewController.swift */; };
+		5E596BA319523B55007D7790 /* FarkleMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E596BA219523B55007D7790 /* FarkleMainViewController.swift */; };
 		5E596BA619523B55007D7790 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BA419523B55007D7790 /* Main.storyboard */; };
 		5E596BA819523B55007D7790 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BA719523B55007D7790 /* Images.xcassets */; };
 		5E596BB419523B55007D7790 /* FarkleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E596BB319523B55007D7790 /* FarkleTests.swift */; };
+		5E596BDA19523C35007D7790 /* google.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BBD19523C35007D7790 /* google.png */; };
+		5E596BDB19523C35007D7790 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BBE19523C35007D7790 /* twitter.png */; };
+		5E596BDC19523C35007D7790 /* github.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BBF19523C35007D7790 /* github.png */; };
+		5E596BDD19523C35007D7790 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC019523C35007D7790 /* facebook.png */; };
+		5E596BDE19523C35007D7790 /* dice6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC119523C35007D7790 /* dice6.png */; };
+		5E596BDF19523C35007D7790 /* dice2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC219523C35007D7790 /* dice2.png */; };
+		5E596BE019523C35007D7790 /* die6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC319523C35007D7790 /* die6.png */; };
+		5E596BE119523C35007D7790 /* die5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC419523C35007D7790 /* die5.png */; };
+		5E596BE219523C35007D7790 /* die4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC519523C35007D7790 /* die4.png */; };
+		5E596BE319523C35007D7790 /* die3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC619523C35007D7790 /* die3.png */; };
+		5E596BE419523C35007D7790 /* die2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC719523C35007D7790 /* die2.png */; };
+		5E596BE519523C35007D7790 /* die1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC819523C35007D7790 /* die1.png */; };
+		5E596BE619523C35007D7790 /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BC919523C35007D7790 /* background.jpeg */; };
+		5E596BE719523C35007D7790 /* die18.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCA19523C35007D7790 /* die18.png */; };
+		5E596BE819523C35007D7790 /* die17.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCB19523C35007D7790 /* die17.png */; };
+		5E596BE919523C35007D7790 /* die16.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCC19523C35007D7790 /* die16.png */; };
+		5E596BEA19523C35007D7790 /* die15.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCD19523C35007D7790 /* die15.png */; };
+		5E596BEB19523C35007D7790 /* die14.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCE19523C35007D7790 /* die14.png */; };
+		5E596BEC19523C35007D7790 /* die13.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BCF19523C35007D7790 /* die13.png */; };
+		5E596BED19523C35007D7790 /* die12.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD019523C35007D7790 /* die12.png */; };
+		5E596BEE19523C35007D7790 /* die11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD119523C35007D7790 /* die11.png */; };
+		5E596BEF19523C35007D7790 /* die10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD219523C35007D7790 /* die10.png */; };
+		5E596BF019523C35007D7790 /* die9.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD319523C35007D7790 /* die9.png */; };
+		5E596BF119523C35007D7790 /* die8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD419523C35007D7790 /* die8.png */; };
+		5E596BF219523C35007D7790 /* die7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD519523C35007D7790 /* die7.png */; };
+		5E596BF319523C35007D7790 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD619523C35007D7790 /* Default-568h@2x.png */; };
+		5E596BF419523C35007D7790 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD719523C35007D7790 /* Default.png */; };
+		5E596BF519523C35007D7790 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD819523C35007D7790 /* Default@2x.png */; };
+		5E596BF619523C35007D7790 /* DiceRoll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5E596BD919523C35007D7790 /* DiceRoll.mp3 */; };
+		5E596BF8195246C4007D7790 /* ScoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E596BF7195246C4007D7790 /* ScoresViewController.swift */; };
+		5E6E6889195A4EE900083F4E /* RulesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6E6888195A4EE900083F4E /* RulesViewController.swift */; };
+		5E77CE5A195B431500FA57EB /* billy9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5E77CE59195B431500FA57EB /* billy9.mp3 */; };
+		5EA3A9FF1955DFAC00DA86ED /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA3A9FE1955DFAC00DA86ED /* Player.swift */; };
+		5EDF1AEB1959FD4F00810CCE /* Sound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDF1AEA1959FD4F00810CCE /* Sound.swift */; };
+		5EFFCC2B19534D1000E3D3B7 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFFCC2A19534D1000E3D3B7 /* GameViewController.swift */; };
+		5EFFCC311954EB8900E3D3B7 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFFCC2F1954EB8900E3D3B7 /* GameModel.swift */; };
+		5EFFCC341954EBBC00E3D3B7 /* Die.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFFCC321954EBBC00E3D3B7 /* Die.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,12 +65,49 @@
 		5E596B9B19523B55007D7790 /* Farkle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Farkle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E596B9F19523B55007D7790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E596BA019523B55007D7790 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5E596BA219523B55007D7790 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5E596BA219523B55007D7790 /* FarkleMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarkleMainViewController.swift; sourceTree = "<group>"; };
 		5E596BA519523B55007D7790 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E596BA719523B55007D7790 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5E596BAD19523B55007D7790 /* FarkleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FarkleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E596BB219523B55007D7790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E596BB319523B55007D7790 /* FarkleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarkleTests.swift; sourceTree = "<group>"; };
+		5E596BBD19523C35007D7790 /* google.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = google.png; path = ../../../xcode/Farkle/Farkle/google.png; sourceTree = "<group>"; };
+		5E596BBE19523C35007D7790 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = twitter.png; path = ../../../xcode/Farkle/Farkle/twitter.png; sourceTree = "<group>"; };
+		5E596BBF19523C35007D7790 /* github.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = github.png; path = ../../../xcode/Farkle/Farkle/github.png; sourceTree = "<group>"; };
+		5E596BC019523C35007D7790 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebook.png; path = ../../../xcode/Farkle/Farkle/facebook.png; sourceTree = "<group>"; };
+		5E596BC119523C35007D7790 /* dice6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice6.png; path = ../../../xcode/Farkle/Farkle/dice6.png; sourceTree = "<group>"; };
+		5E596BC219523C35007D7790 /* dice2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice2.png; path = ../../../xcode/Farkle/Farkle/dice2.png; sourceTree = "<group>"; };
+		5E596BC319523C35007D7790 /* die6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die6.png; path = ../../../xcode/Farkle/Farkle/die6.png; sourceTree = "<group>"; };
+		5E596BC419523C35007D7790 /* die5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die5.png; path = ../../../xcode/Farkle/Farkle/die5.png; sourceTree = "<group>"; };
+		5E596BC519523C35007D7790 /* die4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die4.png; path = ../../../xcode/Farkle/Farkle/die4.png; sourceTree = "<group>"; };
+		5E596BC619523C35007D7790 /* die3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die3.png; path = ../../../xcode/Farkle/Farkle/die3.png; sourceTree = "<group>"; };
+		5E596BC719523C35007D7790 /* die2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die2.png; path = ../../../xcode/Farkle/Farkle/die2.png; sourceTree = "<group>"; };
+		5E596BC819523C35007D7790 /* die1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die1.png; path = ../../../xcode/Farkle/Farkle/die1.png; sourceTree = "<group>"; };
+		5E596BC919523C35007D7790 /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpeg; path = ../../../xcode/Farkle/Farkle/background.jpeg; sourceTree = "<group>"; };
+		5E596BCA19523C35007D7790 /* die18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die18.png; path = ../../../xcode/Farkle/Farkle/die18.png; sourceTree = "<group>"; };
+		5E596BCB19523C35007D7790 /* die17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die17.png; path = ../../../xcode/Farkle/Farkle/die17.png; sourceTree = "<group>"; };
+		5E596BCC19523C35007D7790 /* die16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die16.png; path = ../../../xcode/Farkle/Farkle/die16.png; sourceTree = "<group>"; };
+		5E596BCD19523C35007D7790 /* die15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die15.png; path = ../../../xcode/Farkle/Farkle/die15.png; sourceTree = "<group>"; };
+		5E596BCE19523C35007D7790 /* die14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die14.png; path = ../../../xcode/Farkle/Farkle/die14.png; sourceTree = "<group>"; };
+		5E596BCF19523C35007D7790 /* die13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die13.png; path = ../../../xcode/Farkle/Farkle/die13.png; sourceTree = "<group>"; };
+		5E596BD019523C35007D7790 /* die12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die12.png; path = ../../../xcode/Farkle/Farkle/die12.png; sourceTree = "<group>"; };
+		5E596BD119523C35007D7790 /* die11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die11.png; path = ../../../xcode/Farkle/Farkle/die11.png; sourceTree = "<group>"; };
+		5E596BD219523C35007D7790 /* die10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die10.png; path = ../../../xcode/Farkle/Farkle/die10.png; sourceTree = "<group>"; };
+		5E596BD319523C35007D7790 /* die9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die9.png; path = ../../../xcode/Farkle/Farkle/die9.png; sourceTree = "<group>"; };
+		5E596BD419523C35007D7790 /* die8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die8.png; path = ../../../xcode/Farkle/Farkle/die8.png; sourceTree = "<group>"; };
+		5E596BD519523C35007D7790 /* die7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = die7.png; path = ../../../xcode/Farkle/Farkle/die7.png; sourceTree = "<group>"; };
+		5E596BD619523C35007D7790 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../../../xcode/Farkle/Farkle/Default-568h@2x.png"; sourceTree = "<group>"; };
+		5E596BD719523C35007D7790 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../../../xcode/Farkle/Farkle/Default.png; sourceTree = "<group>"; };
+		5E596BD819523C35007D7790 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../../../xcode/Farkle/Farkle/Default@2x.png"; sourceTree = "<group>"; };
+		5E596BD919523C35007D7790 /* DiceRoll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = DiceRoll.mp3; path = ../../../xcode/Farkle/Farkle/DiceRoll.mp3; sourceTree = "<group>"; };
+		5E596BF7195246C4007D7790 /* ScoresViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoresViewController.swift; sourceTree = "<group>"; };
+		5E6E6888195A4EE900083F4E /* RulesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RulesViewController.swift; sourceTree = "<group>"; };
+		5E77CE59195B431500FA57EB /* billy9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = billy9.mp3; path = /Users/stevehudson/Downloads/billy9.mp3; sourceTree = "<absolute>"; };
+		5EA3A9FE1955DFAC00DA86ED /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		5EDF1AEA1959FD4F00810CCE /* Sound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Sound.swift; path = ../Sound.swift; sourceTree = "<group>"; };
+		5EFFCC2A19534D1000E3D3B7 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameViewController.swift; path = ../GameViewController.swift; sourceTree = "<group>"; };
+		5EFFCC2F1954EB8900E3D3B7 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameModel.swift; path = ../../../xcode/Farkle/Farkle/GameModel.swift; sourceTree = "<group>"; };
+		5EFFCC321954EBBC00E3D3B7 /* Die.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Die.swift; path = ../../../xcode/Farkle/Farkle/Die.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +150,14 @@
 			isa = PBXGroup;
 			children = (
 				5E596BA019523B55007D7790 /* AppDelegate.swift */,
-				5E596BA219523B55007D7790 /* ViewController.swift */,
+				5EDF1AEA1959FD4F00810CCE /* Sound.swift */,
+				5EFFCC321954EBBC00E3D3B7 /* Die.swift */,
+				5EA3A9FE1955DFAC00DA86ED /* Player.swift */,
+				5EFFCC2F1954EB8900E3D3B7 /* GameModel.swift */,
+				5EFFCC2A19534D1000E3D3B7 /* GameViewController.swift */,
+				5E596BF7195246C4007D7790 /* ScoresViewController.swift */,
+				5E6E6888195A4EE900083F4E /* RulesViewController.swift */,
+				5E596BA219523B55007D7790 /* FarkleMainViewController.swift */,
 				5E596BA419523B55007D7790 /* Main.storyboard */,
 				5E596BA719523B55007D7790 /* Images.xcassets */,
 				5E596B9E19523B55007D7790 /* Supporting Files */,
@@ -87,6 +168,36 @@
 		5E596B9E19523B55007D7790 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5E596BBD19523C35007D7790 /* google.png */,
+				5E596BBE19523C35007D7790 /* twitter.png */,
+				5E596BBF19523C35007D7790 /* github.png */,
+				5E596BC019523C35007D7790 /* facebook.png */,
+				5E596BC119523C35007D7790 /* dice6.png */,
+				5E596BC219523C35007D7790 /* dice2.png */,
+				5E596BC319523C35007D7790 /* die6.png */,
+				5E596BC419523C35007D7790 /* die5.png */,
+				5E596BC519523C35007D7790 /* die4.png */,
+				5E596BC619523C35007D7790 /* die3.png */,
+				5E596BC719523C35007D7790 /* die2.png */,
+				5E596BC819523C35007D7790 /* die1.png */,
+				5E596BC919523C35007D7790 /* background.jpeg */,
+				5E596BCA19523C35007D7790 /* die18.png */,
+				5E596BCB19523C35007D7790 /* die17.png */,
+				5E596BCC19523C35007D7790 /* die16.png */,
+				5E596BCD19523C35007D7790 /* die15.png */,
+				5E596BCE19523C35007D7790 /* die14.png */,
+				5E596BCF19523C35007D7790 /* die13.png */,
+				5E596BD019523C35007D7790 /* die12.png */,
+				5E596BD119523C35007D7790 /* die11.png */,
+				5E596BD219523C35007D7790 /* die10.png */,
+				5E596BD319523C35007D7790 /* die9.png */,
+				5E596BD419523C35007D7790 /* die8.png */,
+				5E596BD519523C35007D7790 /* die7.png */,
+				5E596BD619523C35007D7790 /* Default-568h@2x.png */,
+				5E596BD719523C35007D7790 /* Default.png */,
+				5E596BD819523C35007D7790 /* Default@2x.png */,
+				5E596BD919523C35007D7790 /* DiceRoll.mp3 */,
+				5E77CE59195B431500FA57EB /* billy9.mp3 */,
 				5E596B9F19523B55007D7790 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -189,7 +300,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E596BEE19523C35007D7790 /* die11.png in Resources */,
+				5E596BDE19523C35007D7790 /* dice6.png in Resources */,
+				5E596BF419523C35007D7790 /* Default.png in Resources */,
+				5E596BF219523C35007D7790 /* die7.png in Resources */,
+				5E596BE819523C35007D7790 /* die17.png in Resources */,
 				5E596BA619523B55007D7790 /* Main.storyboard in Resources */,
+				5E596BF319523C35007D7790 /* Default-568h@2x.png in Resources */,
+				5E596BEB19523C35007D7790 /* die14.png in Resources */,
+				5E596BE519523C35007D7790 /* die1.png in Resources */,
+				5E596BF019523C35007D7790 /* die9.png in Resources */,
+				5E596BE419523C35007D7790 /* die2.png in Resources */,
+				5E596BEF19523C35007D7790 /* die10.png in Resources */,
+				5E596BF619523C35007D7790 /* DiceRoll.mp3 in Resources */,
+				5E596BF519523C35007D7790 /* Default@2x.png in Resources */,
+				5E596BE619523C35007D7790 /* background.jpeg in Resources */,
+				5E596BE019523C35007D7790 /* die6.png in Resources */,
+				5E596BEA19523C35007D7790 /* die15.png in Resources */,
+				5E596BE919523C35007D7790 /* die16.png in Resources */,
+				5E596BDD19523C35007D7790 /* facebook.png in Resources */,
+				5E596BE719523C35007D7790 /* die18.png in Resources */,
+				5E596BDF19523C35007D7790 /* dice2.png in Resources */,
+				5E596BDC19523C35007D7790 /* github.png in Resources */,
+				5E596BE119523C35007D7790 /* die5.png in Resources */,
+				5E596BE219523C35007D7790 /* die4.png in Resources */,
+				5E596BF119523C35007D7790 /* die8.png in Resources */,
+				5E596BEC19523C35007D7790 /* die13.png in Resources */,
+				5E596BED19523C35007D7790 /* die12.png in Resources */,
+				5E596BE319523C35007D7790 /* die3.png in Resources */,
+				5E596BDB19523C35007D7790 /* twitter.png in Resources */,
+				5E77CE5A195B431500FA57EB /* billy9.mp3 in Resources */,
+				5E596BDA19523C35007D7790 /* google.png in Resources */,
 				5E596BA819523B55007D7790 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -208,8 +349,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E596BA319523B55007D7790 /* ViewController.swift in Sources */,
+				5EFFCC2B19534D1000E3D3B7 /* GameViewController.swift in Sources */,
+				5E596BF8195246C4007D7790 /* ScoresViewController.swift in Sources */,
+				5E596BA319523B55007D7790 /* FarkleMainViewController.swift in Sources */,
+				5EFFCC311954EB8900E3D3B7 /* GameModel.swift in Sources */,
+				5E6E6889195A4EE900083F4E /* RulesViewController.swift in Sources */,
+				5EA3A9FF1955DFAC00DA86ED /* Player.swift in Sources */,
+				5EDF1AEB1959FD4F00810CCE /* Sound.swift in Sources */,
 				5E596BA119523B55007D7790 /* AppDelegate.swift in Sources */,
+				5EFFCC341954EBBC00E3D3B7 /* Die.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,8 +474,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = Farkle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos8.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -337,8 +488,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = Farkle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos8.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -397,6 +551,7 @@
 				5E596BB919523B55007D7790 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E596BBA19523B55007D7790 /* Build configuration list for PBXNativeTarget "FarkleTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +560,7 @@
 				5E596BBC19523B55007D7790 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
